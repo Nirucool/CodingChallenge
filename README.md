@@ -1,2 +1,16 @@
 # CodingChallenge
 Illumio Coding Challenge
+## Unit Test Cases-
+I have used JUnit4 to test my code. 
+I have considered positive, negative and edge test cases.
+## What extra I could have done?
+I would have implemented some design patterns.
+## Implementaton details--
+Pdf mentions the method name as accept_packet. I renamed it to acceptPacket as per Java Coding standards-use of Camel Case.
+
+
+## Which Team I would like to join?
+I would like to join Data Team.
+
+
+
