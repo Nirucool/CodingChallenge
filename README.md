@@ -11,7 +11,9 @@ I have used Set to add all rules. Runtime is O(1) if two network rules are same-
 I would have implemented design patterns, written more test cases if I had extra time.
 
 ## Which Team I would like to join?
-I would like to join Data Team.
+I would like to join- 
+First Choice- Data Team
+Second Choice-Platform team
 
 
 
