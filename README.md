@@ -7,7 +7,8 @@ I have considered positive, negative and edge test cases.
 I would have implemented some design patterns.
 ## Implementaton details--
 Pdf mentions the method name as accept_packet. I renamed it to acceptPacket as per Java Coding standards-use of Camel Case.
-
+I have used Set to add all rules. Runtime is O(1) if two network rules are same-overridden equals method.
+I would have implemented design patterns, written more test cases if I had extra time.
 
 ## Which Team I would like to join?
 I would like to join Data Team.
